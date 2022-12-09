@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on: Project => Make a job search site.
+- 🌱 I’m currently learning: Html, Css, Javascript, React, Express, NodeJs, Mysql.
+
+- 👯 I’m looking for a 4 months stage starting on february.
