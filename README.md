@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!--
  - 🔭 I’m currently in a 4 months stage
 - 🌱 I’m currently learning: Html, Css, Javascript, React, Express, NodeJs, Mysql.
+- 👯 I’m looking for a job .
 -->
 
-- 👯 I’m looking for a job .
